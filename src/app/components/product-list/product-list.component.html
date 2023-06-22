@@ -1,0 +1,4 @@
+<!-- <p>product-list works!</p> -->
+<p *ngFor="let temp of products">
+    {{temp.name}}: {{temp.unitPrice | currency:'EUR'}}
+</p>
