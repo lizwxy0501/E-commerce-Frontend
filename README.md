@@ -1,27 +1,40 @@
-# AngularEcommerce
+# Angular Ecommerce
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+Successfully completed a project involving the development of a full-stack e-commerce application. 
+The project comprised a **Spring Boot** back-end utilizing **REST APIs** and a **MySQL database**, 
+along with an **Angular** front-end. 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The primary functionality of the application was centered around a shopping cart feature, 
+enabling users to view a list of products, search for products, add or remove items from their cart (**CRUD** operations), 
+and proceed with the checkout process.
 
-## Code scaffolding
+Backend Repo: https://github.com/lizwxy0501/E-commerce-Backend
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+_**Home Page**_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img width="1011" alt="Home Page" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/9c126b03-9092-4392-bd31-d948c411fefa">
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+_**Shopping Cart**_
 
-## Further help
+<img width="1001" alt="Shpping Cart" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/cc7fde73-4685-44a3-ab95-3dddf28861be">
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+_**Checkout Page**_
+
+<img width="1001" alt="Checkout Page" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/df04bc2e-48c5-4e71-8e40-33c7fb48d01d">
+
+
+_**Product Page**_
+
+<img width="1017" alt="Product Page" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/e3d8abd5-9532-4852-a425-b1e98a460da3">
+
+
+_**Search Page**_
+
+<img width="1007" alt="Search Page" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/8752563d-6636-4dec-84a9-40e9b6c609e9">
